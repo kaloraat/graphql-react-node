@@ -1,5 +1,5 @@
-## React Node MongoDB Braintree (A PayPal Company) Ecommerce Application from Scratch
+## GraphQL React Node MongoDB Firebase(Auth Only) Realtime MERN Stack Web App
 
 ## Source code for Udemy course
 
-[React Node MongoDB Ecommerce Application](https://www.udemy.com/draft/2293579/?couponCode=ECOMMERCE)
+[GraphQL from Scratch with React Node MongoDB Firebase MERN ](https://www.udemy.com/course/graphql-react-node/?couponCode=GRAPHQL)
